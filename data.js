@@ -321,7 +321,6 @@ cards = [
         size:'20/15',
         price: '500 000',
     },
-
     {
         img: "./picturesAnjalla/JPG/1.jpg",
         title: ' 1 розы',
